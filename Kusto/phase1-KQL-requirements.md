@@ -1,8 +1,7 @@
 # Initial Features of KQL to support 
 
 This is the initial features of a MVP version in ClickHouse
-
-Basically,the idea is to  make the features list a little bit broader but shallower in the initial phase based on the higher impact described in the  [Minimal.KQL.Spec.for.Beta.GA.pdf](https://github.ibm.com/ClickHouse/release/files/941181/Minimal.KQL.Spec.for.Beta.GA.pdf). That will give us a more complete picture of the whole project.
+That will give us a more complete picture of the whole project.
 
 So in this phase, will try to support the following features:
 
@@ -23,10 +22,10 @@ So in this phase, will try to support the following features:
 
 
  The design document can be found here:  
- https://github.ibm.com/ClickHouse/issue-repo/blob/master/docs/features/KQL/phase1/phase1-KQL-design.md
+ phase1-KQL-design.md
 
  The test plan can be found here:  
-https://github.ibm.com/ClickHouse/issue-repo/blob/master/docs/features/KQL/phase1/phase1-KQL-testplan.md
+ phase1-KQL-testplan.md
 
 ## Tabular expression statements<a name="Tabular"></a> 
 Queries always run in the context of a particular database in the cluster. They may also refer to data in another database, or even in another cluster.

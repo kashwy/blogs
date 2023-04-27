@@ -2,7 +2,6 @@
 
 ## Background
 
-Add support for KQL (Kusto) described in the ticket:  https://github.ibm.com/ClickHouse/release/issues/40
 
 - Currently will :  
 Add KQL (Kusto) in front of ClickHouse  
@@ -17,10 +16,10 @@ SO at current stage, will support to use KQL interface to get query result, the 
 
 
  The requirement document can be found here:  
- https://github.ibm.com/ClickHouse/issue-repo/blob/master/docs/features/KQL/phase1/phase1-KQL-requirements.md
+phase1-KQL-requirements.md
  
  The test plan can be found here:  
-https://github.ibm.com/ClickHouse/issue-repo/blob/master/docs/features/KQL/phase1/phase1-KQL-testplan.md
+phase1-KQL-testplan.md
 
 ## Process KQL in ClickHouse:
 
@@ -347,7 +346,7 @@ bool ParserUnionQueryElement::parseImpl(Pos & pos, ASTPtr & node, Expected & exp
 ## Reference 
 [Kusto Query Language reference](https://docs.microsoft.com/en-us/azure/data-explorer/kusto/query/)  
 [Azure_Data_Explorer_white_paper](https://azure.microsoft.com/mediahandler/files/resourcefiles/azure-data-explorer/Azure_Data_Explorer_white_paper.pdf)  
-[Kusto Query Language Grammar](https://github.ibm.com/AIDBUTLR/cp4s-kql/blob/main/src/main/antlr4/com/ibm/si/qradar/cp4s/kql/KQL.g4)  
+
 [ClickHouse grammar](https://github.com/ClickHouse/ClickHouse/blob/master/utils/antlr/ClickHouseParser.g4)
 
 https://github.com/ClickHouse/ClickHouse/pull/36308/files#diff-ff8ad4aed4cf07fe29cb5344d2ab79bc24efd97d054aa112c3a05b5ab853cc44

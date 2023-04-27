@@ -49,10 +49,10 @@
  This is the phase 1 test plan for the Kusto Query Language support in the ClickHouse.
 
  The requirement document can be found here:  
- https://github.ibm.com/ClickHouse/issue-repo/blob/master/docs/features/KQL/phase1/phase1-KQL-requirements.md
+ phase1-KQL-requirements.md
  
  The design document can be found here:  
- https://github.ibm.com/ClickHouse/issue-repo/blob/master/docs/features/KQL/phase1/phase1-KQL-design.md
+ phase1-KQL-design.md
 
 
 # Test process:<a name="TestProcess"></a>    
