@@ -1,4 +1,4 @@
-# Upgrade Submodule (upgrade icu practice)
+# Upgrade ClickHouse Submodule (upgrade icu practice)
 
 ##  Background
 
