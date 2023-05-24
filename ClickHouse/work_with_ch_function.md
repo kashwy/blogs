@@ -275,5 +275,5 @@ Query id: 74c248ea-482d-4086-84dd-e6d89eb42e62
 
 there are several calsses related with funtios. the diagram may helpful for understanding the relationships.
 
-[function related classes](https://github.ibm.com/ClickHouse/issue-repo/blob/master/images/functions.png)
+[function related classes](images/functions.png)
     
