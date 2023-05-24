@@ -221,4 +221,4 @@ void MultipleAccessStorage::addStorage(const StoragePtr & new_storage)
 
 ## Class Diagram   
 the following class diagram can help to under stand the process:
-![ASTCreateUserQuery)](../../images/Create_user.png) 
+![ASTCreateUserQuery)](../images/Create_user.png) 
